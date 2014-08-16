@@ -1,0 +1,6 @@
+span.p { margin: 0 1em; }
+tbody tr { height: 2.5em; vertical-align: top; }
+th,td { border: 0; border-right: 1px solid #555; border-bottom: 1px solid #555; }
+.bid { float: right; font-size: 0.7em; border: 1px solid #66c; background-color: #ccf; margin: 0 0 0.2em 0.2em; padding: 0 0.2em; }
+input { width: 3em; }
+hr { margin: 0; height: 1px; border: 0; background: #ccc; }
